@@ -46,7 +46,6 @@ NC_000001.9     H3K4me3 46333   +       1
 NC_000001.9     H3K4me3 46349   -       1
 NC_000001.9     H3K4me3 52929   +       1
 NC_000001.9     H3K4me3 59412   +       1
-
 ...
 
 Chip-Seq programs require SGA intput files to be sorted by sequence name, position, and strand.

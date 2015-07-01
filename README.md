@@ -2,32 +2,6 @@
 The ChIP-Seq software provides methods for the analysis of ChIP-seq data and other types of mass genome annotation data. The most common analysis tasks include positional correlation analysis, peak detection, and genome partitioning into signal-rich and signal-depleted regions.
 Giovanna Ambrosini EPFL SV/ISREC GR-BUCHER
 
-Rel: 1.4-2 - 1.07.2015
-- A few bug fixes in the chipscore program
-- Add new applications: chip_extract.pl, wigFS2sga.pl
-
-Rel: 1.4-1 - 17.03.2015
-- A few bug fixes in the chipcor program
-
-Rel: 1.4 - 07.01.2015
-- ChIP-seq tools read from stdin as well
-- Add compactsga, counts_filter, and featreplace to main programs
-- Upgrade bed2sga.pl and sga2fps.pl tools
-
-Rel: 1.3 - 29-08-2012
-- Correct a bug in the chippart program
-- Upgrade auxiliary tools
-
-Rel: 1.2 -  17-12-2010
-- Correct a bug in the chippeak program
-
-Rel: 1.1 -  09-04-2009
-- Update Man pages
-- Add auxiliary tools
-
-Rel: 1.0 -  11-11-2008
-- Initial Release
-
 DESCRIPTION OF THE TOOLS
 ----------------------------------------------------------------------------
 We propose a set of useful tools performing common ChIP-Seq data analysis tasks,

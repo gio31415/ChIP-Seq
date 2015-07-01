@@ -35,7 +35,7 @@ Input features may be ChIP-Seq tag positions, peaks found by ChIP-peak, or any t
 
 An example of SGA-formatted file is shown here below:
 
-        NC_000001.9	H3K4me3	4794	+	1
+        NC_000001.9     H3K4me3 4794    +       1
         NC_000001.9     H3K4me3 6090    +       1
         NC_000001.9     H3K4me3 6099    +       1
         NC_000001.9     H3K4me3 6655    +       1
